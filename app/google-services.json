@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "650966906919",
+    "project_id": "lexidome-5da98",
+    "storage_bucket": "lexidome-5da98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650966906919:android:813436d0ddc8bad2de3602",
+        "android_client_info": {
+          "package_name": "com.lexidome.lexagame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650966906919-htc069c2opmk4egmbmapemt7a7u6p0l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_ZdhRgGjYTIMZYmibhLfbE_3dVRwU8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650966906919-htc069c2opmk4egmbmapemt7a7u6p0l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650966906919:android:b247f814bbea3148de3602",
+        "android_client_info": {
+          "package_name": "com.lexidome.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650966906919-56v83tkj4tupertvf4ep7vkib73isped.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexidome.quiz",
+            "certificate_hash": "6f24b32a97a5eefae6ddd6537b1949674f531380"
+          }
+        },
+        {
+          "client_id": "650966906919-htc069c2opmk4egmbmapemt7a7u6p0l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_ZdhRgGjYTIMZYmibhLfbE_3dVRwU8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650966906919-htc069c2opmk4egmbmapemt7a7u6p0l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_package_name" translatable="false">com.lexidome.lexagame</string>
+
+    <!-- !!!IMPORTANT!!!: do not add "https://" prefix in domain_name string. It is deprecated. -->
+    <string name="domain_name" translatable="false">appadmin.lexagame.online</string>
+
+    <!-- You have to use "https://" prefix in dynamic_link string. -->
+    <string name="dynamic_link" translatable="false">https://lexagame.page.link</string>
+
+    <string name="channel_id" translatable="false">default</string>
+    <string name="facebook_app_id" translatable="false">848559139797881</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb848559139797881</string>
+    <string name="g_server_client_id" translatable="false">650966906919-eohp1h88h387bc9953ojroh27814328a.apps.googleusercontent.com</string>
+
+    <bool name="show_translation_dialog">true</bool>
+</resources>
